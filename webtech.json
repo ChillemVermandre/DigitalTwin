@@ -2,7 +2,7 @@
   "apps": {
     "Angular": {
       "html": [
-        "<app-root ng-version=([\\d\\.]+)\\;version:\\1"
+        "<app-root ng-version=\"([\\d+\\.]+)\"\\;version:\\1"
       ]
     },
     "Wix": {
