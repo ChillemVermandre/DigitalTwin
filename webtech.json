@@ -1,0 +1,9 @@
+{
+  "apps": {
+    "Angular": {
+      "html": [
+        "<app-root ng-version=([\\d\\.]+)\\;version:\\1"
+      ]
+    }
+  }
+}
